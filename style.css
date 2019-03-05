@@ -195,8 +195,6 @@ body {}
 }
 #sidebar.active .sidebar-header .main-logo{
 	display: none;
-	max-width: 30%
-	height: auto;
 }
 #sidebar.active .sidebar-header h3{
 	display:none;
