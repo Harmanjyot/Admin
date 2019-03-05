@@ -196,6 +196,13 @@ body {}
 #sidebar.active .sidebar-header .main-logo{
 	display: none;
 }
+.main-logo
+{
+	position: static;
+	top: 10px;
+	max-width: 40%;
+	height: auto;
+}
 #sidebar.active .sidebar-header h3{
 	display:none;
 }
