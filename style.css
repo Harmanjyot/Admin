@@ -1002,6 +1002,12 @@ ul.breadcome-menu li a:hover{
 	font-size:16px;
 	color:#303030;
 }
+.analytics-sparkle-line
+{
+	position: static;
+	width: 100%;
+	height: 30%;
+}
 .analytics-sparkle-line .analytics-content h2, .analytics-rounded .analytics-rounded-content h2, .analysis-progrebar .analysis-progrebar-content h2, .analytics-edu .skill .progress .lead-content h3{
 	font-size:20px;
 	color:#303030;
